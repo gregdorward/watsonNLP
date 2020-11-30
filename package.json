@@ -1,0 +1,19 @@
+{
+  "name": "watson-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "watson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "csv-parser": "^2.3.3",
+    "csv-write-stream": "^2.0.0",
+    "dotenv": "^8.2.0",
+    "stopword": "^1.0.3",
+    "watson-developer-cloud": "^4.0.1"
+  }
+}

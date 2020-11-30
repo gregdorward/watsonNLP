@@ -1,0 +1,260 @@
+lemma,poscode,surface,
+amex,3,amex,Payment
+confirmation,3,confirmation,Order process
+app,3,app,App
+slow,3,slow,App
+ux,3,ux,UX
+order process,3,order process,Order process
+payment,3,payment,Payment
+account,3,account,Account
+password,3,password,Account
+log in,3,log in,Account
+paypal,3,paypal,Payment
+checkout,3,checkout,Order process
+registration,3,registration,Account
+human,3,human,App
+no full menu,3,no full menu,Menu
+gift card,3,gift card,Payment
+change selection,3,change selection,UX
+doesn't work,3,doesn't work,App
+wait time,3,wait time,App
+allergy,3,allergy,Menu
+order then lost,3,order then lost,Order process
+taking money,3,taking money,Payment
+can't place order,3,can't place order,Order process
+gone through,3,gone through,Order Conformation
+took so long,3,took so long,App
+halloumi sticks,3,halloumi sticks,App
+order not accepted,3,order not accepted,Order process
+complicated,3,complicated,UX
+discount code,3,discount code,Payment
+kids menu,3,kids menu,Menu
+email,3,email,Order Conformation
+apple pay,3,apple pay,Payment
+register,3,register,Account
+not accepted,3,not accepted,Order process
+fulfil,3,fulfil,Cancelled
+long wait,3,long wait,App
+navigate,3,navigate,UX
+hours,3,hours,UX
+requests,3,requests,Order process
+take payment,3,take payment,Payment
+add previous order,3,add previous order,UX
+complicated,3,complicated,UX
+vouchers,3,vouchers,Payment
+food late,3,food late,Order process
+eat in,3,eat in,App
+ordering,3,ordering,Order process
+order,3,order,Order process
+process,3,process,UX
+payments,3,payments,Payment
+different to use,3,different to use,UX
+menu,3,menu,Menu
+discount card,3,discount card,Payment
+hardwork,3,hardwork,UX
+server,3,server,App
+nhs discount,3,nhs discount,NHS discount
+points,3,points,Loyalty
+rewards,3,rewards,Loyalty
+chili,3,chili,Loyalty
+nando's card,3,nando's card,Loyalty
+chilli,3,chilli,Loyalty
+reward,3,reward,Loyalty
+scheduled,3,scheduled,Order process
+fulfilled,3,fulfilled,Cancelled
+cancelling,3,cancelling,Cancelled
+cancelled,3,cancelled,Cancelled
+rejected,3,rejected,Cancelled
+denied,3,denied,Cancelled
+not fulfilled,3,not fulfilled,Cancelled
+cancellation,3,cancellation,Cancelled
+cancel,3,cancel,Cancelled
+portion,3,portion,Menu
+check out,3,check out,Order process
+notes,3,notes,Order process
+not user friendly,3,not user friendly,UX
+food,3,food,Food
+chicken,3,chicken,Food
+cold,3,cold,Food
+broken,3,broken,App
+hour,3,hour,Timeliness
+short notice,3,short notice,undefined
+shit,3,shit,UX
+damn chili redemption,3,damn chili redemption,Loyalty
+quarter chicken,3,quarter chicken,Food
+option,3,option,Order process
+direct link,3,direct link,UX
+nando's card details,3,nando's card details,Loyalty
+appalling online system,3,appalling online system,UX
+bad experience,3,bad experience,UX
+shame,3,shame,Emotion
+card,3,card,Payment
+customer,3,customer,UX
+pain,3,pain,Emotion
+load of cobblers,3,load of cobblers,Emotion
+basket,3,basket,Order process
+website,3,website,UX
+developers,3,developers,UX
+numerous occasions,3,numerous occasions,UX
+pinot noir,3,pinot noir,Wine type
+fine wine,3,fine wine,Wine grade
+famed champagne,3,famed champagne,Wine type
+blend,3,blend,Wine type
+steepest vineyards,3,steepest vineyards,Origin
+great richness,3,great richness,Tasting notes
+chardonnay,3,chardonnay,Wine type
+monument,3,monument,Tasting notes
+whole region,3,whole region,Origin
+structure,3,structure,Tasting notes
+magnificent sense of place,3,magnificent sense of place,Tasting
+full menu,3,full menu,Menu
+rubbish,3,rubbish,UX
+system,3,system,App
+guest option,3,guest option,UX
+first time,3,first time,UX
+diabolical service,3,diabolical service,UX
+wold,3,wold,Ignore
+2nd time,3,2nd time,UX
+ages,3,ages,UX
+card number,3,card number,Payment
+red reward,3,red reward,Loyalty
+extra olives,3,extra olives,Food
+olives,3,olives,Food
+store,3,store,Location
+rating,3,rating,UX
+poor service,3,poor service,UX
+money,3,money,Payment
+bastard,3,bastard, Ignore
+nando's plymouth barbican,3,nando's plymouth barbican,Location
+explanation,3,explanation,UX
+nando's account,3,nando's account,Loyalty
+guarantee,3,guarantee,undefined
+arse,3,arse,Ignore
+save points,3,save points,Loyalty
+halumi sticks,3,halumi sticks,Food
+debit card details,3,debit card details,Payment
+issue,3,issue,UX
+bank,3,bank,Payment
+times,3,times,UX
+hassle,3,hassle,UX
+usual experience,3,usual experience,UX
+nightmare,3,nightmare,UX
+online rewards,3,online rewards,Loyalty
+offer time slots,3,offer time slots,Order slot
+previous order,3,previous order,Order
+plymouth barbican,3,plymouth barbican,Location
+nhs worker,3,nhs worker,NHS discount
+cant phone orders,3,cant phone orders,Order process
+various souses,3,various souses,UX
+whole process,3,whole process,Order process
+time slots,3,time slots,Order slot
+minutes,3,minutes,Timeliness
+payment keeps crash,3,payment keeps crash,Payment
+rubbish orders,3,rubbish orders,Order
+nhs discount pass,3,nhs discount pass,NHS discount
+nhs,3,nhs,NHS discount
+small child,3,small child,undefined
+streatham branch,3,streatham branch,Location
+checkout process,3,checkout process,Order process
+darn clunky,3,darn clunky,UX
+check email,3,check email,undefined
+lack of paypal,3,lack of paypal,Payment
+earliest slot,3,earliest slot,Order slot
+user,3,user,UX
+orders,3,orders,Order
+poor customer service,3,poor customer service,Customer service
+order page,3,order page,Order process
+whole order,3,whole order,Order
+later time,3,later time,Timeliness
+kitchen,3,kitchen,Restaurant
+payment take,3,payment take,Payment
+special requests,3,special requests,UX
+previous order,3,previous order,Order
+orders,3,orders,Order
+site,3,site,App
+order takeaway,3,order takeaway,Order
+cant,3,cant,UX
+logon,3,logon,Account
+years,3,years,undefined
+card details,3,card details,Payment
+note eg,3,note eg,UX
+chillis,3,chillis,Loyalty
+time,3,time,Timeliness
+wallet,3,wallet,Loyalty
+pay pal,3,pay pal,Payment
+restaurant,3,restaurant,Restaurant
+message,3,message,undefined
+way,3,way,undefined
+online order,3,online order,Order
+discount,3,discount,Payment
+chaotic process,3,chaotic process,UX
+selection,3,selection,undefined
+platters,3,platters,Food
+plan,3,plan,undefined
+whole thing,3,whole thing,undefined
+mad dash,3,mad dash,UX
+hope,3,hope,undefined
+joke,3,joke,undefined
+whole system,3,whole system,Order process
+delivery,3,delivery,Delivery
+stores,3,stores,Location
+time,3,time,Timeliness
+evening,3,evening,Timeliness
+complete order,3,complete order,Order
+worst experience of online ordering,3,worst experience of online ordering,Order process
+ans,3,ans,undefined
+30mins,3,30mins,Timeliness
+clear order,3,clear order,Order
+phone,3,phone,undefined
+takeaway,3,takeaway,Order
+rush,3,rush,UX
+wont,3,wont,undefined
+restaurants,3,restaurants,Restaurant
+discretion,3,discretion,undefined
+mins,3,mins,Timeliness
+small toddler,3,small toddler,undefined
+notice,3,notice,undefined
+mobile,3,mobile,undefined
+hoops,3,hoops,undefined
+mayo,3,mayo,Food
+plain bread roll,3,plain bread roll,Food
+card points,3,card points,Loyalty
+collection time,3,collection time,Order
+time,3,time,Timeliness
+drive,3,drive,undefined
+facebook,3,facebook,Social media
+meat,3,meat,Food
+points card,3,points card,Loyalty
+chilli points,3,chilli points,Loyalty
+starter,3,starter,Food
+free starter,3,free starter,Food
+full order,3,full order,Order
+wouldnt,3,wouldnt,undefined
+terrible service,3,terrible service,Customer service
+cant use chilli points,3,cant use chilli points,Loyalty
+thati,3,thati,undefined
+different card,3,different card,Payment
+time,3,time,Timeliness
+slot,3,slot,Order slot
+scratch,3,scratch,undefined
+rules,3,rules,UX
+things,3,things,undefined
+information,3,information,UX
+people,3,people,undefined
+mins,3,mins,Timeliness
+till,3,till,Payment
+discount,3,discount,Loyalty
+way,3,way,undefined
+account t,3,account t,undefined
+card number offer,3,card number offer,Payment
+fussed wont,3,fussed wont,undefined
+review,3,review,undefined
+awful registration process,3,awful registration process,UX
+idea,3,idea,undefined
+couldnt,3,couldnt,UX
+allergy option,3,allergy option,Food
+card payment,3,card payment,Payment
+problem,3,problem,undefined
+cancellation of first order,3,cancellation of first order,Order
+long wait time,3,long wait time,Timeliness
+chips,3,chips, Food
